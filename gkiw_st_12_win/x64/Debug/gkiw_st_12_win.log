@@ -1,0 +1,19 @@
+﻿  lodepng.cpp
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(762,10): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(1422,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(1426,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(1498,32): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(3441,25): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(3455,53): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(4262,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(4310,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(4390,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\szymw\Documents\wormrider\lodepng.cpp(5329,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main_file.cpp
+C:\Users\szymw\Documents\wormrider\main_file.cpp(226,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\szymw\Documents\wormrider\main_file.cpp(227,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  shaderprogram.cpp
+C:\Users\szymw\Documents\wormrider\shaderprogram.cpp(38,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  gkiw_st_12_win.vcxproj -> C:\Users\szymw\Documents\wormrider\x64\Debug\gkiw_st_12_win.exe
